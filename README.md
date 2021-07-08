@@ -2,7 +2,7 @@
 
 ### Course 1: Week 7 Assignment on Loops and Iterations
 #### The block of code take a series of inputs until the user enters done, and returs the maximum and minimum value.
-```python:
+```python
 largest = None
 smallest = None
 while True:
