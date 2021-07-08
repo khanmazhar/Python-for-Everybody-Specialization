@@ -28,3 +28,5 @@ while True:
 print("Maximum is", largest)
 print("Minimum is", smallest)
 ```
+# Course 1 Completed🎇🎇🎇🎉✨
+## [Certificate](https://www.coursera.org/account/accomplishments/certificate/749P7DJBSVTZ)
