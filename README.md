@@ -1,7 +1,7 @@
-# Python-for-Everybody-Specialization
+# Python-for-Everybody-Specialization😎😎
 
-### Course 1: Week 7 Assignment on Loops and Iterations
-#### The block of code take a series of inputs until the user enters done, and returs the maximum and minimum value.
+### Course 1: Week 7 Assignment on Loops and Iterations✔✔
+#### The block of code take a series of inputs until the user enters done, and returs the maximum and minimum value👏
 ```python
 largest = None
 smallest = None
